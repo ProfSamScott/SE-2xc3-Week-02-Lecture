@@ -1,6 +1,6 @@
 /* Hello, World!
  * By Sam Scott, 2026
- * changed
+ * changed remotely
  */
 
 #include <stdio.h>
